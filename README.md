@@ -1,2 +1,1 @@
-# trapss.dev
-src of https://trapss.dev
+my site xd
